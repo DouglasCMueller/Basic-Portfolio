@@ -44,18 +44,10 @@ li a {
 }
 
 
-/* .myname {
-  background-color: teal;
-  color: white;
-  margin: 0;
-  
-
-}
-   */
-  #main-bio {
+  #Main-Content {
    margin-left: 150px;
    margin-right: 150px;
-   background-color: blue;
+   background-color: pink;
 
   }
   h1 {
